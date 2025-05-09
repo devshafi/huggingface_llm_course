@@ -49,3 +49,5 @@ jupyter_notebook_config.py
 # OS specific
 .DS_Store
 Thumbs.db
+
+dataset/
